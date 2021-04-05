@@ -1,11 +1,11 @@
-# design_patterns
-This repository has been created to make examples about design_patterns.
+# Design patterns
+This repository has been created to make examples about design patterns.
 
 
 List of Design Patterns has been created here:
 
 ### Creational
-- Factory
+- Factory in Java
 - Abstract Factory
 - Builder
 
