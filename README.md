@@ -13,7 +13,7 @@ List of Design Patterns has been created here:
 - Adapter
 - Bridge
 
-## Behavior 
+### Behavior 
 - Chain of Responsability
 
 
