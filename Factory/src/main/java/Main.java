@@ -4,10 +4,8 @@ public class Main {
 
     public static void main(String[] args) {
 
-        System.out.println("starting process");
-
         configure(args[0]);
-        if(transport != null) {
+        if(transport != null){
             runTransport();
         }
     }
@@ -17,13 +15,15 @@ public class Main {
     }
 
     private static void configure(String type) {
-        switch (type) {
+        switch(type){
             case "car":
                 transport = new CarTransport();
-            case "log":
+                break;
+            case "log" :
                 transport = new MotorcycleTransport();
-            default:
-                System.out.println("selecione o tipo de entrega");
+                break;
+            default :
+                System.out.println("Selecione o tipo de entrega");
         }
     }
 }
