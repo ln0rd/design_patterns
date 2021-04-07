@@ -1,6 +1,6 @@
 package vehicles;
 
-public interface Vehicles {
+public interface Vehicle {
 
     void startRoute();
 

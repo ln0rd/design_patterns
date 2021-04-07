@@ -1,8 +1,11 @@
-package vehicles;
+import vehicles.Vehicle;
 
 public abstract class Transport {
 
-    void startTranport() {};
+    void startTranport() {
+        Vehicle vehicle = createTransport();
+        vehicle.startRoute();
+    }
 
-    protected abstract Vehicles
+    protected abstract Vehicle createTransport();
 }
