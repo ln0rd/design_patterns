@@ -19,8 +19,11 @@ public class Main {
             case "car":
                 transport = new CarTransport();
                 break;
-            case "log" :
+            case "log":
                 transport = new MotorcycleTransport();
+                break;
+            case "bike":
+                transport = new BikeTransport();
                 break;
             default :
                 System.out.println("Selecione o tipo de entrega");
