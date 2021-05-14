@@ -12,3 +12,8 @@ Tenho um gateway de pagamento que se comunica com uma adquirencia e preciso
 com que ela se comunique com outra adquirencia porem com uma adaptação nos dados, principalmente
 quando já tenho um sistema legado.
 ```
+
+#### Como resolvo: <br>
+Eu crio uma Classe chamada SomethingAdapter do objeto que vc quer adaptar
+e nele vai se implementado a interface que já existe, porem onde ele precisar ser instanciado
+será instanciado o Adapter dessa Classe e passado por parametro o objeto que precisa ser adaptado.
