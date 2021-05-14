@@ -5,19 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="13385b3a-324e-4df9-b3b5-13777505581c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../AbstractFactory/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../AbstractFactory/readme.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../AbstractFactory/src/main/java/airVehicles/AirVehicle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../AbstractFactory/src/main/java/airVehicles/Airplane.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../AbstractFactory/src/main/java/airVehicles/Helicopter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../AbstractFactory/src/main/java/app/Application.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../AbstractFactory/src/main/java/factories/NineNineTransportFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../AbstractFactory/src/main/java/factories/TransportFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../AbstractFactory/src/main/java/factories/UberTransportFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../AbstractFactory/src/main/java/landVehicles/Car.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../AbstractFactory/src/main/java/landVehicles/LandVehicle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../AbstractFactory/src/main/java/landVehicles/Motorcycle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../AbstractFactory/src/main/java/main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
