@@ -1,0 +1,16 @@
+platforms/Platform.java
+ platforms.Platform
+platforms/Youtube.java
+ platforms.Youtube
+platforms/FacebookLive.java
+ platforms.FacebookLive
+platforms/Twitch.java
+ platforms.Twitch
+transmissions/Transmission.java
+ transmissions.Transmission
+transmissions/AdvancedLive.java
+ transmissions.AdvancedLive
+transmissions/Live.java
+ transmissions.Live
+Main.java
+ Main
